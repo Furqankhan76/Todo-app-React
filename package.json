@@ -1,6 +1,5 @@
 {
   "homepage": "https://Furqankhan76.github.io/Todo-app-React",
-
   "name": "10todocontext",
   "private": true,
   "version": "0.0.0",
@@ -11,8 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist" 
-
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^18.3.1",
