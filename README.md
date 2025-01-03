@@ -11,7 +11,7 @@ A simple and user-friendly Todo App built with **React** to help you manage your
 
 ## Live Demo
 
-Check out the live app: [Add Your Deployment Link Here]
+Check out the live app: https://furqankhan76.github.io/Todo-app-React/
 
 ## Installation
 
